@@ -4,13 +4,13 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-###
+
 
 
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWM5dHp0ajZ6eGN3djQwYnJnMnV6ZHYwNnV1eWYyOGZqNHFodzJhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif"  />
 </div>
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/asmitsaw/" target="_blank">
