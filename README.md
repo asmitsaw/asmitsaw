@@ -102,12 +102,3 @@
 
 ###
 
-
-<img src="https://raw.githubusercontent.com/asmitsaw/asmitsaw/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-
-###
