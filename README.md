@@ -25,14 +25,7 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=asmitsaw&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmitsaw&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmitsaw/asmitsaw/output/pacman-contribution-graph-dark.svg">
@@ -101,6 +94,13 @@
 ###
 
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=asmitsaw&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmitsaw&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 
 <img src="https://raw.githubusercontent.com/asmitsaw/asmitsaw/output/snake.svg" alt="Snake animation" />
